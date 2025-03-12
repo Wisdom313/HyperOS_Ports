@@ -10,10 +10,10 @@ Notes
 Every bug report and feedback is good for your future experience: Warrior.
 Ported from SweetK6a (Redmi Note 12 Pro 4G).
 
-
->Android 15 | HyperOS OS2.0.101.0 - PORT
-
-▪️ [Download](https://devuploads.com/j1expcg4mv7a)
+  
+  >Android 15 | HyperOS OS2.0.101.0 - PORT
+  
+    [Download](https://devuploads.com/j1expcg4mv7a)
 ▪️ [Screenshots](https://t.me/Xiaomi_EU_Ports/80)
 ▪️ [Support](https://t.me/XiaomiEUPortsGroup)
 ▪️ [Recommend Recovery](https://t.me/xiaomi_eu_ports/31)
