@@ -1,19 +1,18 @@
 # HyperOS_Ports
-HyperOS PORTS for RedmiNote10Pro/ by Warrior<br/>
+HyperOS Ports for RedmiNote10Pro | by Warrior<br/>
 
-Latest A13: HyperOS OS1.0.13.0<br/>
+Android 13 | HyperOS OS1.0.13.0<br/>
 
-[Download](https://devuploads.com/avkg98u0wswg)<br/>
-
+  [Download](https://devuploads.com/avkg98u0wswg)<br/>
+  
 Notes
-[Use this Recovery](https://t.me/xiaomi_eu_ports/31)<br/>
-Every bug report and feedback is good for your future experience: Warrior.<br/>
-Ported from SweetK6a (Redmi Note 12 Pro 4G).<br/>
-
+  [Use this Recovery](https://t.me/xiaomi_eu_ports/31)<br/>
+  Ported from SweetK6a (Redmi Note 12 Pro 4G).<br/>
+  Every bug report and feedback is good for your future experience: Warrior.<br/>
   
-  >Android 15 | HyperOS OS2.0.101.0 - PORT<br/>
+Android 15 | HyperOS OS2.0.101.0 - PORT<br/>
   
-  [Download](https://devuploads.com/j1expcg4mv7a)<br/>
+▪️ [Download](https://devuploads.com/j1expcg4mv7a)<br/>
 ▪️ [Screenshots](https://t.me/Xiaomi_EU_Ports/80)<br/>
 ▪️ [Support](https://t.me/XiaomiEUPortsGroup)<br/>
 ▪️ [Recommend Recovery](https://t.me/xiaomi_eu_ports/31)<br/>
