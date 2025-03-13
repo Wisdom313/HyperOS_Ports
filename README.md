@@ -2,37 +2,27 @@
 HyperOS Ports for RedmiNote10Pro | by Warrior<br/>
 
 Android 13 | HyperOS OS1.0.13.0<br/>
-HyperOS OS1.0.13.0 - PORT | Android 13.
-Released: 27/12/'24
+HyperOS OS1.0.13.0 - PORT | Android 13.<br/>
 
-▪️ Download (https://devuploads.com/avkg98u0wswg)
-▪️ Screenshots (https://t.me/xiaomi_eu_ports/53)
-▪️ Support (https://t.me/XiaomiEUPortsGroup)
-▪️ Recommend Recovery (https://t.me/xiaomi_eu_ports/31)
-▪️ Installation Steps (https://t.me/c/2301324998/8)
+   ▪️ [Download](https://devuploads.com/avkg98u0wswg)<br/>
+   ▪️ [Screenshots](https://t.me/xiaomi_eu_ports/53)<br/>
+   ▪️ [Support](https://t.me/XiaomiEUPortsGroup)<br/>
+   ▪️ [Recommend Recovery](https://t.me/xiaomi_eu_ports/31)<br/>
+   ▪️ [Installation Steps](https://t.me/c/2301324998/8)<br/>
 
-Changelog:
-• Base Updated: THGMIXM OS1.0.13.0
-• Leica Camera 4.9 ( because default camera doesn't work)
-• Debloated + Some Ui Improvements + Smooth
-• Fully RW
-• Perf Kernel (Default)
-• Added Hidden Things + Bug Fixes
-• Added Enhanced Gboard (Clean Flash Required)
-• Other Things
-Credits:
-• Xiaomi.EU (https://xiaomi.eu/)
-• Dulquer Salmaan (https://t.me/dulquersalmaan22)
-• Adham - أَدْهَم  (https://t.me/llxcd_EGy)
-By Warrior (https://t.me/warrior_0_0_0_0)
-Follow @Xiaomi_EU_Ports
-  ▪️ [Download](https://devuploads.com/avkg98u0wswg)<br/>
-  
-   Notes:<br/>
-   ▪️ [Use this Recovery](https://t.me/xiaomi_eu_ports/31)<br/>
-     • Ported from SweetK6a (Redmi Note 12 Pro 4G).<br/>
+   Changelog:<br/>
+     • Base Updated: THGMIXM OS1.0.13.0 SweetK6a (Redmi Note 12 Pro 4G)<br/>
+     • Leica Camera 4.9 ( because default camera doesn't work)<br/>
+     • Debloated + Some Ui Improvements + Smooth<br/>
+     • Fully RW<br/>
+     • Perf Kernel (Default)<br/>
+     • Added Hidden Things + Bug Fixes<br/>
+     • Added Enhanced Gboard (Clean Flash Required)<br/>
+     • Other Things<br/>
      • Every bug report and feedback is good for your future experience: Warrior.<br/>
-  
+
+-  <br/>
+
 Android 15 | HyperOS OS2.0.101.0 - PORT<br/>
   
    ▪️ [Download](https://devuploads.com/j1expcg4mv7a)<br/>
