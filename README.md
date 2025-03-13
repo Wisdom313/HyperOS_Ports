@@ -1,5 +1,25 @@
 # HyperOS_Ports
 HyperOS Ports for RedmiNote10Pro | by Warrior<br/>
+Android 13 | HyperOS OS1.0.15.0 *LatestA13* <br/>
+
+   ▪️ [Download](https://devuploads.com/sn5n70ibfg1j)<br/>
+   ▪️ [Screenshots](https://t.me/xiaomi_eu_ports/53)<br/>
+   ▪️ [Support](https://t.me/XiaomiEUPortsGroup)<br/>
+   ▪️ [Recommend Recovery](https://t.me/xiaomi_eu_ports/31)<br/>
+   ▪️ [Installation Steps](https://t.me/c/2301324998/8)<br/>
+
+   Changelog:<br/>
+     • Base Updated: THGMIXM OS1.0.13.0 SweetK6a (Redmi Note 12 Pro 4G)<br/>
+     • Leica Camera 4.9 ( because default camera doesn't work)<br/>
+     • Debloated + Some Ui Improvements + Smooth<br/>
+     • Fully RW<br/>
+     • Perf Kernel (Default)<br/>
+     • Added Hidden Things + Bug Fixes<br/>
+     • Added Enhanced Gboard (Clean Flash Required)<br/>
+     • Other Things<br/>
+     • Every bug report and feedback is good for your future experience: Warrior.<br/>
+
+-  <br/>
 
 Android 13 | HyperOS OS1.0.13.0<br/>
 
