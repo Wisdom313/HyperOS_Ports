@@ -2,7 +2,6 @@
 HyperOS Ports for RedmiNote10Pro | by Warrior<br/>
 
 Android 13 | HyperOS OS1.0.13.0<br/>
-HyperOS OS1.0.13.0 - PORT | Android 13.<br/>
 
    ▪️ [Download](https://devuploads.com/avkg98u0wswg)<br/>
    ▪️ [Screenshots](https://t.me/xiaomi_eu_ports/53)<br/>
