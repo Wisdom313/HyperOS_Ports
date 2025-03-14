@@ -1,6 +1,5 @@
 # HyperOS_Ports
-HyperOS Ports for RedmiNote10Pro | <p>by Warri <img src="https://github.com/Warrior-dev0/HyperOS_Ports/blob/main/warri-r.svg" width="20" height="20"> R.</p>
-<br/>
+HyperOS Ports for RedmiNote10Pro | <p>by Warri<img src="https://github.com/Warrior-dev0/HyperOS_Ports/blob/main/warrior.svg" width="18" height="18">R.</p>
 ## Android 13 | HyperOS OS1.0.15.0 **LatestA13** <br/>
 
    ▪️ [Download](https://devuploads.com/sn5n70ibfg1j)<br/>
