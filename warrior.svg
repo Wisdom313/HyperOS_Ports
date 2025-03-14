@@ -1,0 +1,24 @@
+<svg style="--darkreader-inline-stroke: currentColor;" 
+    data-darkreader-inline-stroke="" 
+    data-component-content="%7B%22className%22%3A%22h-4%20w-4%20fill-hyper%20text-white%22%7D" 
+    data-component-name="CircleIcon" 
+    data-component-file="Hero.tsx" 
+    data-component-line="112" 
+    data-component-path="src/components/Hero.tsx" 
+    data-lov-name="CircleIcon" 
+    data-lov-id="src/components/Hero.tsx:112:16" 
+    class="lucide lucide-circle h-4 w-4 fill-hyper text-white" 
+    stroke-linejoin="round" 
+    stroke-linecap="round" 
+    stroke-width="2" 
+    stroke="red" 
+    fill="none" 
+    viewBox="0 0 24 24" 
+    height="24" 
+    width="24" 
+    xmlns="http://www.w3.org/2000/svg">
+    
+    <!-- Red Circle with Subtle Glow -->
+    <circle cx="12" cy="12" r="10" stroke="red" stroke-width="2" fill="none" 
+        style="filter: drop-shadow(0px 0px 4px red);"/>
+</svg>
