@@ -1,22 +1,21 @@
 # HyperOS_Ports
 HyperOS Ports for RedmiNote10Pro | <p>by Warri<img src="https://github.com/Warrior-dev0/HyperOS_Ports/blob/main/warrior.svg" width="18" height="18">R.</p>
-## Android 13 | HyperOS OS1.0.15.0 **LatestA13** <br/>
+## Android 13 | HyperOS OS1.0.15.0 **Latest A13** <br/>
 
-   ▪️ [Download](https://devuploads.com/sn5n70ibfg1j)<br/>
+   ▪️ [Download](https://devuploads.com/p2sse78owduk)<br/>
    ▪️ [Screenshots](https://t.me/xiaomi_eu_ports/53)<br/>
    ▪️ [Support](https://t.me/XiaomiEUPortsGroup)<br/>
    ▪️ [Recommend Recovery](https://t.me/xiaomi_eu_ports/31)<br/>
    ▪️ [Installation Steps](https://t.me/c/2301324998/8)<br/>
 
    Changelog:<br/>
-     • Base Updated: THGMIXM OS1.0.13.0 SweetK6a (Redmi Note 12 Pro 4G)<br/>
+     • Base Updated: THGMIXM OS1.0.15.0 SweetK6a (Redmi Note 12 Pro 4G)<br/>
      • Leica Camera 4.9 ( because default camera doesn't work)<br/>
-     • Debloated + Some Ui Improvements + Smooth<br/>
-     • Fully RW<br/>
+     • Fully RW (Partitons that have free space)<br/>
      • Perf Kernel (Default)<br/>
      • Added Hidden Things + Bug Fixes<br/>
-     • Added Enhanced Gboard (Clean Flash Required)<br/>
-     • Other Things<br/>
+     • Removed Enhanced Gboard (Clean Flash Required)<br/>
+     • Many Optimizations New tuff >>> Explore Or Just USe <br/>
      • Every bug report and feedback is good for your future experience: Warrior.<br/>
 
 <br/>
